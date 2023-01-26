@@ -11,3 +11,5 @@ run main.py for prediction
 experiments --> contains all experiment results
 
 data --> data for training and testing
+
+Download Model File [Drive Link](https://drive.google.com/file/d/1jNgEvDy5bHOIYX7C3CKVYwSo0y1DRDXj/view?usp=sharing)
