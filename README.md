@@ -1,5 +1,7 @@
 # empathy_classification :mending_heart:
-:speech_balloon: Detect empathy from a sentence 
+:speech_balloon: Detect empathy from a sentence
+
+:hugs: This is a binary classification model using **DistilBert**
 
 :superhero: Download Model File [Drive Link](https://drive.google.com/file/d/1jNgEvDy5bHOIYX7C3CKVYwSo0y1DRDXj/view?usp=sharing)
 
