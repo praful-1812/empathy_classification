@@ -1,0 +1,12 @@
+keras==2.8.0
+Keras-Preprocessing==1.1.2
+matplotlib==3.5.2
+nltk==3.7
+numpy==1.21.2
+pandas==1.4.2
+requests==2.27.1
+rsa==4.8
+scikit-learn==1.1.1
+tensorflow==2.8.0
+torch==1.10.2
+xgboost==1.6.1
