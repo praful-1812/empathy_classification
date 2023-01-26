@@ -1,4 +1,4 @@
-# empathy_classification
+# empathy_classification :mending_heart:
 Detect empathy from a sentence
 
 Dir structure
@@ -9,6 +9,12 @@ src --> contains prediction pipeline
 change paths in config.py(output_model variable) and main.py(test_data variable)
 
 **run main.py for prediction**
+
+Output :
+
+1 : Empathy
+
+2: Not Empathy
 
 experiments --> contains all experiment results
 
